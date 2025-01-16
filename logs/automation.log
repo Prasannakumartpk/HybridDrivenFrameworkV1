@@ -1,0 +1,183 @@
+13:06:34 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+13:06:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+13:06:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+13:06:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+13:06:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+13:06:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+13:06:35 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+13:06:35 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+13:06:35 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+13:06:35 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+13:06:36 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+13:06:36 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Finished TC001_AccountRegistrationTest **
+13:07:36 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+13:07:36 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+13:07:36 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+13:07:36 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+13:07:36 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+13:07:36 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+13:07:37 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+13:07:37 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+13:07:37 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+13:07:37 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+13:07:38 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+13:07:38 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+13:07:38 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug Logs
+13:26:32 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+13:26:32 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+13:26:33 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+13:26:33 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+13:26:33 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+13:26:33 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+13:26:33 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+13:26:33 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+13:26:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+13:26:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+13:26:34 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+13:26:34 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+13:26:34 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug Logs
+13:56:25 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+13:56:25 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+13:56:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+13:56:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+13:56:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+13:56:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+13:56:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+13:56:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+13:56:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+13:56:26 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+13:56:27 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+13:56:27 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+13:56:27 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug Logs
+13:57:51 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+13:57:51 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+13:57:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+13:57:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+13:57:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+13:57:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+13:57:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+13:57:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+13:57:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+13:57:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+13:57:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+13:57:53 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Finished TC001_AccountRegistrationTest **
+13:58:52 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+13:58:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+13:58:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+13:58:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+13:58:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+13:58:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+13:58:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+13:58:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+13:58:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+13:58:54 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+13:58:54 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+13:58:54 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Finished TC001_AccountRegistrationTest **
+13:59:02 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+13:59:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+13:59:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+13:59:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+13:59:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+13:59:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+13:59:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+13:59:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+13:59:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+13:59:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+13:59:05 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+13:59:05 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Finished TC001_AccountRegistrationTest **
+13:59:13 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+13:59:13 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+13:59:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+13:59:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+13:59:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+13:59:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+13:59:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+13:59:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+13:59:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+13:59:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+13:59:15 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+13:59:15 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Finished TC001_AccountRegistrationTest **
+14:01:41 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+14:01:41 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+14:01:42 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+14:01:42 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+14:01:43 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+14:01:43 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+14:01:43 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+14:01:43 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+14:01:43 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+14:01:43 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+14:01:44 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+14:01:44 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+14:01:44 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+14:01:44 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+14:01:44 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+14:01:44 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+14:01:44 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+14:01:45 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+14:01:45 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+14:01:46 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+14:01:46 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+14:01:46 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ** Test Finished TC001_AccountRegistrationTest **
+14:01:46 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+14:01:46 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+14:01:47 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+14:01:47 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+14:01:47 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+14:01:47 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+14:01:47 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+14:01:47 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+14:01:47 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+14:01:47 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+14:01:47 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+14:01:48 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ** Test Finished TC001_AccountRegistrationTest **
+14:01:48 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+14:01:48 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ** Test Finished TC001_AccountRegistrationTest **
+15:38:14 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+15:38:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+15:38:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+15:38:14 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+15:38:15 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+15:38:15 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+15:38:15 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+15:38:15 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+15:38:15 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+15:38:15 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+15:38:16 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+15:38:16 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Finished TC001_AccountRegistrationTest **
+12:38:01 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+12:38:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+12:38:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+12:38:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+12:38:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+12:38:01 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+12:38:02 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+12:38:02 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+12:38:02 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+12:38:02 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+12:38:03 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+12:38:03 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Finished TC001_AccountRegistrationTest **
+19:46:52 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+19:46:52 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+19:46:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+19:46:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+19:46:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+19:46:53 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+19:46:54 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+19:46:54 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+19:46:54 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+19:46:54 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+19:46:56 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+19:46:56 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Finished TC001_AccountRegistrationTest **
+19:49:09 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+19:49:09 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+19:49:10 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+19:49:10 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+19:49:10 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+19:49:10 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+19:49:11 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+19:49:11 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+19:49:11 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+19:49:11 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+19:49:12 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+19:49:12 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Finished TC001_AccountRegistrationTest **
