@@ -92,7 +92,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">2 methods,   2 passed</span>
+                    <span class="method-stats">3 methods,   3 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -103,12 +103,17 @@
                     <div class="method-list-content passed suite-Suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="testCases.SC01_AccountRegistrationTest" class="method navigator-link" hash-for-method="TC01_verify_account_registration">TC01_verify_account_registration</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC01_AccountRegistrationTest" class="method navigator-link" hash-for-method="verify_account_registration">verify_account_registration</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="testCases.SC02_LoginTest" class="method navigator-link" hash-for-method="TC01_verify_login_with_valid_credentials">TC01_verify_login_with_valid_credentials</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC03_LoginTest" class="method navigator-link" hash-for-method="verify_login_with_invalid_credentials">verify_login_with_invalid_credentials</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC02_LoginTest" class="method navigator-link" hash-for-method="verify_login_with_valid_credentials">verify_login_with_valid_credentials</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Suite -->
@@ -126,14 +131,14 @@
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">testCases.SC01_AccountRegistrationTest</span>
+              <span class="class-name">testCases.TC01_AccountRegistrationTest</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="TC01_verify_account_registration">
-                  </a> <!-- TC01_verify_account_registration -->
-                  <span class="method-name">TC01_verify_account_registration</span>
+                  <a name="verify_account_registration">
+                  </a> <!-- verify_account_registration -->
+                  <span class="method-name">verify_account_registration</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -141,14 +146,29 @@
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">testCases.SC02_LoginTest</span>
+              <span class="class-name">testCases.TC02_LoginTest</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="TC01_verify_login_with_valid_credentials">
-                  </a> <!-- TC01_verify_login_with_valid_credentials -->
-                  <span class="method-name">TC01_verify_login_with_valid_credentials</span>
+                  <a name="verify_login_with_valid_credentials">
+                  </a> <!-- verify_login_with_valid_credentials -->
+                  <span class="method-name">verify_login_with_valid_credentials</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">testCases.TC03_LoginTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verify_login_with_invalid_credentials">
+                  </a> <!-- verify_login_with_invalid_credentials -->
+                  <span class="method-name">verify_login_with_invalid_credentials</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -167,8 +187,9 @@
     &lt;parameter name=&quot;os&quot; value=&quot;Windows&quot;/&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;testCases.SC01_AccountRegistrationTest&quot;/&gt;
-      &lt;class name=&quot;testCases.SC02_LoginTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC01_AccountRegistrationTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC02_LoginTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TC03_LoginTest&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Test --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -182,7 +203,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Test (2 classes)</span>
+                <span class="test-name">Test (3 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -208,20 +229,24 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(2);
+data.addRows(3);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'TC01_verify_account_registration')
-data.setCell(0, 2, 'testCases.SC01_AccountRegistrationTest')
-data.setCell(0, 3, 2405);
+data.setCell(0, 1, 'verify_account_registration')
+data.setCell(0, 2, 'testCases.TC01_AccountRegistrationTest')
+data.setCell(0, 3, 2182);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'TC01_verify_login_with_valid_credentials')
-data.setCell(1, 2, 'testCases.SC02_LoginTest')
-data.setCell(1, 3, 1685);
+data.setCell(1, 1, 'verify_login_with_valid_credentials')
+data.setCell(1, 2, 'testCases.TC02_LoginTest')
+data.setCell(1, 3, 1587);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'verify_login_with_invalid_credentials')
+data.setCell(2, 2, 'testCases.TC03_LoginTest')
+data.setCell(2, 3, 1423);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 4 seconds</span>
+              <span class="suite-total-time">Total running time: 5 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -247,33 +272,48 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">testCases.SC01_AccountRegistrationTest</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">testCases.TC01_AccountRegistrationTest</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setUp(Windows, chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">TC01_verify_account_registration</span>
-                <span class="method-start">9824 ms</span>
+                <span class="method-name">verify_account_registration</span>
+                <span class="method-start">4678 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">12233 ms</span>
+                <span class="method-start">6862 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
-              <div class="chronological-class-name">testCases.SC02_LoginTest</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">testCases.TC02_LoginTest</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setUp(Windows, chrome)</span>
-                <span class="method-start">12424 ms</span>
+                <span class="method-start">7047 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">TC01_verify_login_with_valid_credentials</span>
-                <span class="method-start">16505 ms</span>
+                <span class="method-name">verify_login_with_valid_credentials</span>
+                <span class="method-start">11250 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">18191 ms</span>
+                <span class="method-start">12838 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.TC03_LoginTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp(Windows, chrome)</span>
+                <span class="method-start">13005 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">verify_login_with_invalid_credentials</span>
+                <span class="method-start">17605 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">19029 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

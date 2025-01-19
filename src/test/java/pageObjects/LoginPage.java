@@ -19,6 +19,9 @@ public class LoginPage extends BasePage {
 	@FindBy(xpath="//*[@id='content']/div/div[2]/div/form/input")
 	WebElement btnLogin;
 	
+	@FindBy(xpath="//*[@id='account-login']/div[1]")
+	WebElement invalidErrorMsg;
+	
 	public void setEmail(String email) {
 		txtEmailAddress.sendKeys(email);
 	}
@@ -29,6 +32,12 @@ public class LoginPage extends BasePage {
 	
 	public void clickLogin() {
 		btnLogin.click();
+	}
+	
+	public String verifyInvalidErrorMsg() {
+		String errorText = invalidErrorMsg.getText();
+		System.out.println("Invalid Error Message: " + errorText);
+		return errorText;
 	}
 
 }
