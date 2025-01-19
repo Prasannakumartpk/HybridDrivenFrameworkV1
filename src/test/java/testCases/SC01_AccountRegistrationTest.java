@@ -7,12 +7,12 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC001_AccountRegistrationTest extends BaseClass {
+public class SC01_AccountRegistrationTest extends BaseClass {
 
 	@Test
-	public void verify_account_registration() {
+	public void TC01_verify_account_registration() {
 		
-		logger.info("** Test Started TC001_AccountRegistrationTest **");
+		logger.info("** TC01_verify_account_registration Test Started **");
 		
 		try {
 		HomePage hp = new HomePage(driver);
@@ -55,6 +55,6 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 		{
 			Assert.fail();
 		}
-		logger.info("** Test Finished TC001_AccountRegistrationTest **");	
+		logger.info("** TC01_verify_account_registration Test Finished **");	
 	}
 }

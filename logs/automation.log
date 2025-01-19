@@ -1,0 +1,36 @@
+18:57:47 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Started TC001_AccountRegistrationTest **
+18:57:47 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+18:57:48 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration Link 
+18:57:48 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered First Name
+18:57:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Last Name
+18:57:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Email
+18:57:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Telephone Number
+18:57:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Password
+18:57:49 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered Confirm Password
+18:57:50 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked Policy Check Box
+18:57:51 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Continue
+18:57:51 [main] INFO  testCases.TC001_AccountRegistrationTest - ** Test Finished TC001_AccountRegistrationTest **
+18:57:58 [main] INFO  testCases.TC002_LoginTest - ** TC002_verify_login_with_valid_credentials Test Started **
+18:57:58 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account Link in Top Navigation
+18:57:59 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link
+18:57:59 [main] INFO  testCases.TC002_LoginTest - Entered Email
+18:57:59 [main] INFO  testCases.TC002_LoginTest - Clicked on Login
+18:58:01 [main] INFO  testCases.TC002_LoginTest - ** TC002_verify_login_with_valid_credentials Test Finished **
+21:32:55 [main] INFO  testCases.SC01_AccountRegistrationTest - ** TC01_verify_account_registration Test Started **
+21:32:55 [main] INFO  testCases.SC01_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+21:32:56 [main] INFO  testCases.SC01_AccountRegistrationTest - Clicked on Registration Link 
+21:32:56 [main] INFO  testCases.SC01_AccountRegistrationTest - Entered First Name
+21:32:56 [main] INFO  testCases.SC01_AccountRegistrationTest - Entered Last Name
+21:32:56 [main] INFO  testCases.SC01_AccountRegistrationTest - Entered Email
+21:32:56 [main] INFO  testCases.SC01_AccountRegistrationTest - Entered Telephone Number
+21:32:56 [main] INFO  testCases.SC01_AccountRegistrationTest - Entered Password
+21:32:56 [main] INFO  testCases.SC01_AccountRegistrationTest - Entered Confirm Password
+21:32:56 [main] INFO  testCases.SC01_AccountRegistrationTest - Checked Policy Check Box
+21:32:57 [main] INFO  testCases.SC01_AccountRegistrationTest - Clicked on Continue
+21:32:57 [main] INFO  testCases.SC01_AccountRegistrationTest - ** TC01_verify_account_registration Test Finished **
+21:33:01 [main] INFO  testCases.SC02_LoginTest - ** TC002_verify_login_with_valid_credentials Test Started **
+21:33:01 [main] INFO  testCases.SC02_LoginTest - Clicked on My Account Link in Top Navigation
+21:33:02 [main] INFO  testCases.SC02_LoginTest - Clicked on Login Link
+21:33:02 [main] INFO  testCases.SC02_LoginTest - Entered Email
+21:33:02 [main] INFO  testCases.SC02_LoginTest - Clicked on Login
+21:33:03 [main] INFO  testCases.SC02_LoginTest - ** TC002_verify_login_with_valid_credentials Test Finished **
