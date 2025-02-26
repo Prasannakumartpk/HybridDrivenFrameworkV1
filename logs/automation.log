@@ -22,3 +22,51 @@
 23:43:18 [main] INFO  testCases.TC03_LoginTest - Entered Email
 23:43:18 [main] INFO  testCases.TC03_LoginTest - Clicked on Login
 23:43:19 [main] INFO  testCases.TC03_LoginTest - ** Test Finished TC03_LoginTest **
+17:28:06 [main] INFO  testCases.TC01_AccountRegistrationTest - ** Test Started TC01_AccountRegistrationTest **
+17:28:06 [main] INFO  testCases.TC01_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+17:28:07 [main] INFO  testCases.TC01_AccountRegistrationTest - Clicked on Registration Link 
+17:28:07 [main] INFO  testCases.TC01_AccountRegistrationTest - Entered First Name
+17:28:07 [main] INFO  testCases.TC01_AccountRegistrationTest - Entered Last Name
+17:28:07 [main] INFO  testCases.TC01_AccountRegistrationTest - Entered Email
+17:28:07 [main] INFO  testCases.TC01_AccountRegistrationTest - Entered Telephone Number
+17:28:07 [main] INFO  testCases.TC01_AccountRegistrationTest - Entered Password
+17:28:07 [main] INFO  testCases.TC01_AccountRegistrationTest - Entered Confirm Password
+17:28:08 [main] INFO  testCases.TC01_AccountRegistrationTest - Checked Policy Check Box
+17:28:09 [main] INFO  testCases.TC01_AccountRegistrationTest - Clicked on Continue
+17:28:09 [main] INFO  testCases.TC01_AccountRegistrationTest - ** Test Finished TC01_AccountRegistrationTest **
+17:28:14 [main] INFO  testCases.TC02_LoginTest - ** Test Started TC02_LoginTest **
+17:28:14 [main] INFO  testCases.TC02_LoginTest - Clicked on My Account Link in Top Navigation
+17:28:14 [main] INFO  testCases.TC02_LoginTest - Clicked on Login Link
+17:28:14 [main] INFO  testCases.TC02_LoginTest - Entered Email
+17:28:15 [main] INFO  testCases.TC02_LoginTest - Clicked on Login
+17:28:16 [main] INFO  testCases.TC02_LoginTest - ** Test Finished TC02_LoginTest **
+17:28:20 [main] INFO  testCases.TC03_LoginTest - ** Test Started TC03_LoginTest **
+17:28:20 [main] INFO  testCases.TC03_LoginTest - Clicked on My Account Link in Top Navigation
+17:28:21 [main] INFO  testCases.TC03_LoginTest - Clicked on Login Link
+17:28:21 [main] INFO  testCases.TC03_LoginTest - Entered Email
+17:28:21 [main] INFO  testCases.TC03_LoginTest - Clicked on Login
+17:28:22 [main] INFO  testCases.TC03_LoginTest - ** Test Finished TC03_LoginTest **
+13:00:55 [main] INFO  testCases.TC01_AccountRegistrationTest - ** Test Started TC01_AccountRegistrationTest **
+13:00:55 [main] INFO  testCases.TC01_AccountRegistrationTest - Clicked on My Account Link in Top Navigation
+13:00:56 [main] INFO  testCases.TC01_AccountRegistrationTest - Clicked on Registration Link 
+13:00:56 [main] INFO  testCases.TC01_AccountRegistrationTest - Entered First Name
+13:00:56 [main] INFO  testCases.TC01_AccountRegistrationTest - Entered Last Name
+13:00:56 [main] INFO  testCases.TC01_AccountRegistrationTest - Entered Email
+13:00:56 [main] INFO  testCases.TC01_AccountRegistrationTest - Entered Telephone Number
+13:00:56 [main] INFO  testCases.TC01_AccountRegistrationTest - Entered Password
+13:00:56 [main] INFO  testCases.TC01_AccountRegistrationTest - Entered Confirm Password
+13:00:56 [main] INFO  testCases.TC01_AccountRegistrationTest - Checked Policy Check Box
+13:00:57 [main] INFO  testCases.TC01_AccountRegistrationTest - Clicked on Continue
+13:00:57 [main] INFO  testCases.TC01_AccountRegistrationTest - ** Test Finished TC01_AccountRegistrationTest **
+13:01:01 [main] INFO  testCases.TC02_LoginTest - ** Test Started TC02_LoginTest **
+13:01:01 [main] INFO  testCases.TC02_LoginTest - Clicked on My Account Link in Top Navigation
+13:01:02 [main] INFO  testCases.TC02_LoginTest - Clicked on Login Link
+13:01:02 [main] INFO  testCases.TC02_LoginTest - Entered Email
+13:01:02 [main] INFO  testCases.TC02_LoginTest - Clicked on Login
+13:01:03 [main] INFO  testCases.TC02_LoginTest - ** Test Finished TC02_LoginTest **
+13:01:07 [main] INFO  testCases.TC03_LoginTest - ** Test Started TC03_LoginTest **
+13:01:07 [main] INFO  testCases.TC03_LoginTest - Clicked on My Account Link in Top Navigation
+13:01:07 [main] INFO  testCases.TC03_LoginTest - Clicked on Login Link
+13:01:07 [main] INFO  testCases.TC03_LoginTest - Entered Email
+13:01:08 [main] INFO  testCases.TC03_LoginTest - Clicked on Login
+13:01:08 [main] INFO  testCases.TC03_LoginTest - ** Test Finished TC03_LoginTest **
